@@ -56,7 +56,7 @@ An interactive Power BI dashboard designed to analyze sales performance across r
 Upload your image and embed it:
 
 ```markdown
-![Sales Dashboard](screenshots/dashboard-overview.png)
+![Sales Dashboard]("C:\Users\nandh\OneDrive\Pictures\Screenshots\Sales Analysis.png")
 ```
 
 ## Portfolio Description (for Resume)
